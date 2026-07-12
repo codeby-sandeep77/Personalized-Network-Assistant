@@ -1,0 +1,11 @@
+[
+  "tests/test_main.py::test_health_check",
+  "tests/test_main.py::test_module_health_endpoints[/api/v1/auth/health-auth]",
+  "tests/test_main.py::test_module_health_endpoints[/api/v1/conversation/health-conversation]",
+  "tests/test_main.py::test_module_health_endpoints[/api/v1/events/health-events]",
+  "tests/test_main.py::test_module_health_endpoints[/api/v1/feedback/health-feedback]",
+  "tests/test_main.py::test_module_health_endpoints[/api/v1/history/health-history]",
+  "tests/test_main.py::test_module_health_endpoints[/api/v1/users/health-users]",
+  "tests/test_main.py::test_module_health_endpoints[/api/v1/wikipedia/health-wikipedia]",
+  "tests/test_main.py::test_root_endpoint"
+]
